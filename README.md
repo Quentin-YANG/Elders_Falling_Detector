@@ -1,7 +1,7 @@
 # Elders-Falling-Detector
 The repository is for one of the capstone of Master of Electrical Engineering, University of Melbourne.
 
-Author(s):df
+Author(s):
 are Qingyuan Yang, Wenqi Lei and Yujie Zhan.
 
 Brife Description: 
